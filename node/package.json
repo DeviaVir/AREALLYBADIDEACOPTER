@@ -1,0 +1,14 @@
+{
+  "name": "AREALLYBADIDEACOPTER",
+  "author": {
+    "name": "Pebble WebOps",
+    "email": "webops@pebble.com"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "ws": "^1.1.0"
+  }
+}
